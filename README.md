@@ -14,8 +14,8 @@ I was interested in programming since I was about 12 years old, but I sadly didn
 I first tried learning how to code Java using YouTube tutorials, however I ended up only retyping the code of the tutorials without actually coding anything myself, so the learning process was really slow. 
 I moved away from "tutorial hell" when I was around 16 years old, where I first started to learn how to build a website using Apache and PHP. 
 At around 17 years old I started to make a Filesharing Website using PHP, however I accidentally deleted most of my code and so out of frustration I decided to stop the Project and deleted all of the remaining code. Since then I started using GitHub on an old account. 
-I then started my first bigger project, which I would later finish. It was a js calculator as a school project. You can find (it's repo)[https://github.com/j-gehrig/mgsmb-calc] on my profile.
-I then started learning C++ and my first finished project is a (library for printing a matrix of custom size in the console)[https://github.com/j-gehrig/MatrixPrinter].
+I then started my first bigger project, which I would later finish. It was a js calculator as a school project. You can find [it's repo](https://github.com/j-gehrig/mgsmb-calc) on my profile.
+I then started learning C++ and my first finished project is a [library for printing a matrix of custom size in the console](https://github.com/j-gehrig/MatrixPrinter).
 I also made a Sodoku solver. I wanted to come up with an algorithm without doing any research, but it wasn't a very good algorithm, so I made the repo private. I also wanted to make a GUI version of the calculator, sodoku solver and then a sodoku game, and so I chose to learn QT. 
 However, it's a little too difficult for me to learn as of now, so I'm learning more C++ and becomming better now.
 ...
