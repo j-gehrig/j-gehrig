@@ -5,7 +5,7 @@
 My name is Johannes but you can also call me Max.<br>
 I am a 19 year old guy who was born and lives in Germany, though my mother is born in Bolivia.<br>
 I am interested in science, especially computer science, physics and maths. My only hobbies are programming and playing video games.<br>
-My favourite music genrrs are Latin, (Intelligent) DnB and Pop.<br>
+My favourite music geners are Latin, (Intelligent) DnB and Pop.<br>
 I consider myself to be an honest and nice person and I really like helping others - maybe because it makes me feel like I have some value in this world. I have a strong sense of justice and I try to minimize Injustice against me or others and it often frustrates me when I can't do anything about it.<br>
 Since I can remember I have issues with loneliness and depression, which amplify my laziness, however I am going to therapy now, so I will hopefully cure my depression soon.<br>
 <br>
